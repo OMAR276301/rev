@@ -1,0 +1,9 @@
+echo "deb http://http.kali.org/kali kali-experimental main contrib non-free" | sudo tee /etc/apt/sources.list.d/kali-experimental.list
+
+sudo rm /etc/apt/sources.list.d/kali-experimental.list
+
+
+echo "deb http://http.kali.org/kali kali-bleeding-edge main contrib non-free" | sudo tee /etc/apt/sources.list.d/kali-bleeding-edge.list
+
+
+sudo rm /etc/apt/sources.list.d/kali-bleeding-edge.list
