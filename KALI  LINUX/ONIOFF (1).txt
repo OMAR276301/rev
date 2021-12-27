@@ -1,0 +1,18 @@
+                            🎩ONIOFF🎩
+
+###############################
+
+
+           https://github.com/k4m4/onioff
+    ----------------------------------------
+
+
+1-git clone https://github.com/k4m4/onioff.git
+
+2-cd onioff
+
+3-pip3 install -r requirements.txt
+ 
+4-python3 onioff.py
+
+###############################
